@@ -4,7 +4,7 @@
 
 A full-stack web platform connecting women entrepreneurs with business ideas, government schemes, and mentors.
 
-- **Developer / Owner**: Vaishnavi Hole
+- **Developer / Owner**: Radhika Suryawanshi, Vaishnavi Hole
 - **Frontend**: Next.js 14 (App Router) · TypeScript · Tailwind CSS · Lucide React
 - **Backend**: Python · Django 4.2 · Django REST Framework · SimpleJWT
 - **Database**: SQLite (development) — swap to PostgreSQL for production
@@ -299,4 +299,4 @@ npm run build    # type-check and build
 
 ---
 
-*Built by Vaishnavi Hole · © 2024 Nariniti*
+*Built by Radhika Suryawanshi & Vaishnavi Hole ·  Nariniti*
